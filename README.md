@@ -26,5 +26,13 @@
 
 5.[复旦pac的ShadowSocks版本](http://blog.lostmj.com/upload/pac_file/fudan_shadowsocks_pac)
 ***
+自行更新方法：
 
+1.从[教育网免费ip列表](http://xxgk.fudan.edu.cn/_s68/2274/list.psp)下载最新的文件，导出word为edu_free_ip.txt。
+
+2.使用**handle.py**处理edu_free_ip.txt得到edu_free_ip.conf。
+
+3.将edu_free_ip.conf全选拷贝到pac文件的相应位置即可。
+
+___
 ![](http://bcs.duapp.com/lostmjdl/du/weixin.jpg)
