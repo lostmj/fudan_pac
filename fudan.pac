@@ -1975,5 +1975,5 @@ isInNet(rip,"223.212.0.0","255.254.0.0") ||
 isInNet(rip,"223.252.192.0","255.255.192.0")
  ) 
 return fudan_proxy;
-else return shadowsocks;
+else return goagent_proxy;
 }
