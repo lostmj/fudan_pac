@@ -1,13 +1,13 @@
 #Fudan PAC file 
 
-This file is for fudan proxy with goagent or other proxy.
+&emsp;This file is for fudan proxy with goagent or other proxy.
 
 ***
 
 
-#复旦大学pac
-[简书](http://jianshu.io)
-   这是给经常使用[校园代理](http://proxy.fudan.edu.cn)的同学准备的。主要考虑有以下几点：
+#复旦大学 Pac代理
+
+&emsp;&emsp;这是给经常使用[校园代理](http://proxy.fudan.edu.cn)的同学准备的。主要考虑有以下几点：
    
 1.节省流量，对于经常访问国外资源的同学，每个月**500M**还是不太够用的。
 
