@@ -21,6 +21,10 @@
 2.[FDU图书馆的代理](http://www.portal.fudan.edu.cn/script/libraryProxy.pac.js)
 
 3.[教育网免费ip列表](http://xxgk.fudan.edu.cn/_s68/2274/list.psp)
+
+4.[复旦pac的GoAgent版本](http://blog.lostmj.com/upload/pac_file/fudan_goagent_pac)
+
+5.[复旦pac的ShadowSocks版本](http://blog.lostmj.com/upload/pac_file/fudan_shadowsocks_pac)
 ***
 
 ![](http://bcs.duapp.com/lostmjdl/du/weixin.jpg)
